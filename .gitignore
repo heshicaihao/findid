@@ -1,0 +1,8 @@
+/FindId-master/.gradle
+/FindId-master/.idea
+/FindId-master/*.iml
+/FindId-master/local.properties
+/FindId-master/demo/build
+/FindId-master/demo/*.iml
+/FindId-master/findid/*.iml
+/FindId-master/findid/build
